@@ -1,1 +1,1 @@
-.
+Keydb Helm Chart
