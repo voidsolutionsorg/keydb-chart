@@ -5,4 +5,4 @@ debug: true
 check-version-increment: false
 helm-extra-args: --timeout 15m
 chart-repos:
-  - keydb=https://voidsolutionsorg.github.io/keydb-charts
+  - keydb=https://voidsolutionsorg.github.io/keydb-chart
