@@ -1,0 +1,8 @@
+# See https://github.com/helm/chart-testing#configuration
+remote: origin
+target-branch: master
+debug: true
+check-version-increment: false
+helm-extra-args: --timeout 15m
+chart-repos:
+  - keydb=https://voidsolutionsorg.github.io/keydb-charts
